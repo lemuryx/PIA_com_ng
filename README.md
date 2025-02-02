@@ -49,6 +49,23 @@ timer with PIC12C5009A.
 
 
 
+## Test Program
+
+TEST PROGRAM from "Apple-1 Operation Manual" (pg.2).
+
+Program code:
+
+    0: a9 0 AA 20 EF FF E8 8A 4C 2 0
+
+Check the memory
+
+    0.a
+
+Run
+
+    0r
+
+
 ## Links
 
 There is a collection of programs in "Apple-1-Mini" repository
