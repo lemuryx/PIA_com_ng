@@ -1,0 +1,10 @@
+#!/bin/bash
+
+PORT=/dev/ttyUSB0
+
+cat "$@" |
+while read ln; do
+  printf "$ln\r" > $PORT
+  usleep 4000
+done
+

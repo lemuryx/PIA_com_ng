@@ -1,0 +1,10 @@
+E000R
+
+10 for a=1 to 10
+20 print a
+30 next a
+40 end
+
+list
+
+run
