@@ -45,7 +45,7 @@ NOTE:
 While I think it should work without any problem, I have to mention
 that I haven't tested the code with original RESET circuit.
 I was so unhappy with RESET circuit functionality that I've replaced 555
-timer with PIC12C5009A.
+timer with PIC12C509A.
 
 
 
