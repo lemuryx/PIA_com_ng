@@ -71,4 +71,5 @@ Run
 There is a collection of programs in "Apple-1-Mini" repository
 https://github.com/DutchMaker/Apple-1-Mini/tree/master/code/programs
 
-
+Simple hardware debugging of 6502-based systems:
+https://github.com/hoglet67/6502Decoder/wiki
